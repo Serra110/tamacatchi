@@ -21,7 +21,7 @@
 | [cherry mx switches](https://mauser.pt/010-1717/cherry-mx1a-51nn-switch-cherry-mx-speed-silver-p-teclado-mecanico-linear-s-click-s-pinos-de-alinhamento) | 2 switches cerry mx | 2 | $2.46 | $4.92 | [Mauser](https://mauser.pt/010-1717/cherry-mx1a-51nn-switch-cherry-mx-speed-silver-p-teclado-mecanico-linear-s-click-s-pinos-de-alinhamento) |
 | [buzzer](https://mauser.pt/091-0397/velleman-besouro-electromagnetico-12x7-5mm-12vdc-85db-2-3khz-sv4-12-sn) | buzzes | 1 | $3.09 | $3.09 | [Mauser](https://mauser.pt/091-0397/velleman-besouro-electromagnetico-12x7-5mm-12vdc-85db-2-3khz-sv4-12-sn) |
 | **Parts subtotal** | — | — | — | **$39.03** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$39.03** | — |
+| **Tax & shipping** | — | — | — | **$12.00** | — |
+| **Total** | — | — | — | **$51.03** | — |
 
-**$9.03 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$21.03 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
