@@ -1,0 +1,31 @@
+/home/serra/.var/app/org.kicad.KiCad/data/kicad/10.0/projects/Starbie/build/core/WMath.cpp.o: \
+ /home/serra/.arduino15/packages/esp32/hardware/esp32/3.3.12/cores/esp32/WMath.cpp \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/esp_system/include/esp_system.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/esp_common/include/esp_err.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/newlib/platform_include/stdio.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/esp_common/include/esp_compiler.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/esp_common/include/esp_attr.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/esp_common/include/esp_bit_defs.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/esp_common/include/esp_idf_version.h \
+ /home/serra/.arduino15/packages/esp32/hardware/esp32/3.3.12/cores/esp32/esp32-hal-log.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/esp_timer/include/esp_timer.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/esp_hw_support/include/esp_etm.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/esp_rom/esp32c3/include/esp32c3/rom/ets_sys.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/log/include/esp_log.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/esp_rom/include/esp_rom_sys.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/soc/esp32c3/include/soc/reset_reasons.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/soc/esp32c3/include/soc/soc_caps.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/log/include/esp_log_config.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/log/include/esp_log_level.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/esp_common/include/esp_assert.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/log/include/esp_log_color.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/log/include/esp_log_buffer.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/log/include/esp_log_timestamp.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/log/include/esp_log_write.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/log/include/esp_log_format.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/log/include/esp_log_args.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/esp_common/include/esp_macros.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/esp_common/include/esp_assert.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/log/include/esp_log_attr.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/log/include/esp_private/log_attr.h \
+ /home/serra/.arduino15/packages/esp32/tools/esp32c3-libs/3.3.12/include/esp_hw_support/include/esp_random.h

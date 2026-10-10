@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:XIAO_ESP32C3",
+  "hardwareFolders": "/home/serra/.arduino15/packages/esp32/hardware/esp32/3.3.12,/home/serra/.arduino15/packages/esp32/hardware/esp32/3.3.12",
+  "otherLibrariesFolders": "/home/serra/Arduino/libraries",
+  "sketchLocation": "/home/serra/.var/app/org.kicad.KiCad/data/kicad/10.0/projects/Starbie"
+}
