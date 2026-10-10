@@ -16,7 +16,7 @@
 | [XIAO ESP32 C3](https://mauser.pt) | main board | 1 | $7.60 | $7.60 | [mauser](https://mauser.pt) |
 | [DHT11](https://mauser.pt) | temperature and himidity sensor | 1 | $1.70 | $1.70 | [Mauser](https://mauser.pt) |
 | **Parts subtotal** | — | — | — | **$12.87** | — |
-| **Tax & shipping** | — | — | — | **$11.97** | — |
-| **Total** | — | — | — | **$24.84** | — |
+| **Tax & shipping** | — | — | — | **$12.00** | — |
+| **Total** | — | — | — | **$24.87** | — |
 
-$5.16 left of the tier's funding.
+$5.13 left of the tier's funding.
