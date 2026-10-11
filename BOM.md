@@ -5,11 +5,9 @@
 
 > [!NOTE]
 > This parts list is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
-
 | Week | Tier | Parts funding |
 | --- | --- | --- |
 | Week 1 | Tier 1 | $30.00 |
-
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [PCB](https://jlcpcb.com/) | pcb | 1 | $4.00 | $4.00 | [JLCPCB](https://jlcpcb.com/) |
@@ -20,8 +18,9 @@
 | [MPU6050](https://pt.aliexpress.com/item/1005009243906456.html) | gyroscope | 1 | $1.56 | $1.56 | [aliexpress](https://pt.aliexpress.com/item/1005009243906456.html) |
 | [cherry switches](https://pt.aliexpress.com/item/1005013266330240.html) | switches/buttons | 1 | $2.02 | $2.02 | [aliexpress](https://pt.aliexpress.com/item/1005013266330240.html) |
 | [keycaps](https://pt.aliexpress.com/item/1005009153609513.html) | 1u keycaps for the cherry switches | 1 | $2.21 | $2.21 | [aliexpress](https://pt.aliexpress.com/item/1005009153609513.html) |
-| **Parts subtotal** | — | — | — | **$20.36** | — |
+| 10k resistor | pull-up/pull-down resistor | 1 | $0.01 | $0.01 | [AliExpress](https://pt.aliexpress.com/) |
+| **Parts subtotal** | — | — | — | **$20.37** | — |
 | **Tax & shipping** | — | — | — | **$12.01** | — |
-| **Total** | — | — | — | **$32.37** | — |
+| **Total** | — | — | — | **$32.38** | — |
 
-**$2.37 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$2.38 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
