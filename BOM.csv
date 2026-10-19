@@ -1,0 +1,11 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+PCB,1,JLCPCB,$4.00,$4.00,https://jlcpcb.com/
+xiao esp32 c3,1,aliexpress,$6.37,$6.37,https://pt.aliexpress.com/item/1005007367604089.html
+DHT11,1,aliexpress,$0.78,$0.78,https://pt.aliexpress.com/item/1005008593539984.html
+RTC-DS3231MZ,1,aliexpress,$2.05,$2.05,https://pt.aliexpress.com/item/1005007994865878.html
+lcd display,1,aliexpress,$1.37,$1.37,https://pt.aliexpress.com/item/32805708464.html
+MPU6050,1,aliexpress,$1.56,$1.56,https://pt.aliexpress.com/item/1005009243906456.html
+cherry switches,1,aliexpress,$2.02,$2.02,https://pt.aliexpress.com/item/1005013266330240.html
+keycaps,1,aliexpress,$2.21,$2.21,https://pt.aliexpress.com/item/1005009153609513.html
+Resistor,1,Aliexpress,$0.01,$0.01,https://AliExpress.com
+Estimated total shipping,1,,,$12.01,
