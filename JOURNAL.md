@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuuyotnx0bqa01smalo613i8). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy.
+> A starbie alternative that has custom edge cuts, cat shaped, some images and 2 more components than the original tutorial, including an RTC, real time clock and a buzzer, making in my opinion fun additions to the project, I also updated the code the best i could, having  help from AI and wikis to implement the RTC and buzzer additions.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
