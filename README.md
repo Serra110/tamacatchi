@@ -1,15 +1,8 @@
-
 # Tamacatchi
 
-A Tamagotchi-inspired project made by me :).
+Tamacatchi is a small virtual pet inspired by the original Tamagotchi, a handheld digital pet that you take care of by feeding it, playing with it and letting it rest. The idea behind this project is to create a physical device where you can interact with your pet using buttons and movement controls.
 
-This project is my first attempt at designing a complete project in KiCad, including the schematic and PCB design, it has:
-
-- Screen for displaying information
-- Three switches for user input
-- Buzzer for sound feedback
-- RTC (Real-Time Clock)
-- Temperature and humidity sensor
+The device includes a screen to display the pet and its stats, a buzzer for sound feedback, an RTC to keep track of time, and a temperature and humidity sensor. It also uses an MPU6050, which lets you tilt the device to navigate the menu or shake it to make the pet react and change its stats. This is my first attempt at designing a complete project in KiCad, including both the schematic and PCB layout, so it has been a great learning experience.
 
 ## Hardware Design
 
@@ -27,7 +20,7 @@ The schematic showing the circuit and component connections.
 
 ## Code
 
-The code was updated to support the additional components introduced in the tutorial, including the rtc and the buzzer.
+The code was updated to support the additional components introduced in the tutorial, including the RTC and the buzzer.
 
 ## Controls
 
@@ -35,7 +28,8 @@ The code was updated to support the additional components introduced in the tuto
 - **Button 2 (D3):** Switches between the pet view and stats view.
 - **MPU6050:** Tilt the device to navigate the menu, or shake it to make the pet react and change stats.
 
-**Menu actions:**
+### Menu Actions
+
 - **Up:** Nap
 - **Right:** Play
 - **Down:** Feed
@@ -43,5 +37,5 @@ The code was updated to support the additional components introduced in the tuto
 
 ## About the Project
 
-This is my first time creating a complete project in KiCad, making it a learning experience, i would bet that the copper lines could be better optimized since i only put some in the background.
+This is my first time designing a complete PCB in KiCad, from the schematic to the PCB layout. I still have things I would like to improve, especially the copper routing, since I mainly focused on getting everything connected rather than optimizing the layout. Overall, this project has helped me learn more about electronics, circuit design and PCB development, and I hope to improve it further in the future.
 
