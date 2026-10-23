@@ -1,3 +1,4 @@
+
 Item,Qty,Supplier,Cost/item,Total Cost,link
 PCB,1,JLCPCB,$4.00,$4.00,https://jlcpcb.com/
 xiao esp32 c3,1,aliexpress,$6.37,$6.37,https://pt.aliexpress.com/item/1005007367604089.html
@@ -9,4 +10,5 @@ cherry switches,1,aliexpress,$2.02,$2.02,https://pt.aliexpress.com/item/10050132
 keycaps,1,aliexpress,$2.21,$2.21,https://pt.aliexpress.com/item/1005009153609513.html
 Resistor,1,Aliexpress,$0.01,$0.01,https://AliExpress.com
 Buzzer,1,aliexpress,$1.10,$1.10,https://pt.aliexpress.com/item/1005006613648485.html
-Estimated total shipping,1,,,$12.01,
+Estimated total shipping,1,,$12.01,$12.01,
+TOTAL COST,,,,$33.48,
